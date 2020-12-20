@@ -41,6 +41,7 @@ pair<ll,ll> method_2(vi a, int start, int end){ //Initially start=0, end=n-1
     }
 }
 
+//Pairwise comparison method
 pair<ll,ll> method_3(vi a){
     pair<ll,ll> ans;
     ll i;
