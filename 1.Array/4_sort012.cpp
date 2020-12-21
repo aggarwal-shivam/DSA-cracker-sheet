@@ -3,7 +3,7 @@ author : Shivam Aggarwal
 Problem link : https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 */
 
-// Counting method
+// Counting
 void sort012(int a[], int n)
 {
     // coode here 
