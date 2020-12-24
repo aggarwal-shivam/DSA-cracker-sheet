@@ -12,3 +12,4 @@ Problems completed till now are following.
 4. Sort array containing 0,1 and 2 without using any sorting algorithm
 5. Move all negative elements of array in the beginning
 6. Union and intersection of two arrays
+7. cyclically rotate array by one
