@@ -14,3 +14,4 @@ Problems completed till now are following.
 6. Union and intersection of two arrays
 7. cyclically rotate array by one
 8. Max subarray sum (Kadane's algo)
+10. Min jumps to reach end of array
