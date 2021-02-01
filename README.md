@@ -15,3 +15,6 @@ Problems completed till now are following.
 7. cyclically rotate array by one
 8. Max subarray sum (Kadane's algo)
 10. Min jumps to reach end of array
+11. Find duplicate in an array of size (n+1)
+20. Arrange negative and positives in alternate positions
+22. Factorial of a large number
