@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 int findDuplicate_map(vector<int>& nums) {
         map<int,int> m;
         for(auto e:nums){
@@ -13,7 +16,7 @@ int findDuplicate_map(vector<int>& nums) {
         return ans;
     }
 
-#slow-fast pointer approach
+//slow-fast pointer approach
 int findDuplicate(vector<int>& nums) {
         int fast=0, slow=0;
         fast=nums[nums[fast]];
