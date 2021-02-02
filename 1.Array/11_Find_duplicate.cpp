@@ -32,3 +32,7 @@ int findDuplicate(vector<int>& nums) {
         }
         return fast;
     }
+
+int main(){
+    return 0;
+}
