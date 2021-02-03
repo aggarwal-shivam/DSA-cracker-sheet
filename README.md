@@ -16,6 +16,7 @@ Problems completed till now are following.
 8. Max subarray sum (Kadane's algo)
 10. Min jumps to reach end of array
 11. Find duplicate in an array of size (n+1)
+12. Merge 2 sorted arrays without using extra space.
 14. Merge Intervals
 18. Given a sum 'k', find the number of pairs in array having this sum.
 20. Arrange negative and positives in alternate positions

@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int binary_search(int a[],int low, int high,int key){
+int binary_search(int a[],int low, int high,int key){ //modified it for first occurence of element
     int temp, flag=0;
         while(low<=high){
             int mid=low+(high-low)/2;
