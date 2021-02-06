@@ -21,3 +21,4 @@ Problems completed till now are following.
 18. Given a sum 'k', find the number of pairs in array having this sum.
 20. Arrange negative and positives in alternate positions
 22. Factorial of a large number
+24. Longest Consecutive subsequence
