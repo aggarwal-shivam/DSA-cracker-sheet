@@ -23,4 +23,9 @@ Problems completed till now are following.
 20. Arrange negative and positives in alternate positions
 22. Factorial of a large number
 24. Longest Consecutive subsequence
+27. Find whether an array is a subset of another array or not
 30. Chocolate distribution problem
+
+## Strings
+
+1. Reverse a string in constant space
