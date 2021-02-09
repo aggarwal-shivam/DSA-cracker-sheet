@@ -29,3 +29,4 @@ Problems completed till now are following.
 ## Strings
 
 1. Reverse a string in constant space
+2. Palindrome String or not.
