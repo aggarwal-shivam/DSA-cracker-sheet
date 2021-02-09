@@ -18,6 +18,7 @@ Problems completed till now are following.
 11. Find duplicate in an array of size (n+1)
 12. Merge 2 sorted arrays without using extra space.
 14. Merge Intervals
+17. Best time to buy and sell stocks
 18. Given a sum 'k', find the number of pairs in array having this sum.
 20. Arrange negative and positives in alternate positions
 22. Factorial of a large number
