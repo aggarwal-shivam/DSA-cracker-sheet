@@ -30,3 +30,4 @@ Problems completed till now are following.
 
 1. Reverse a string in constant space
 2. Palindrome String or not.
+3. Find duplicates in a string
