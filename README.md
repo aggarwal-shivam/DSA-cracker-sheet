@@ -33,3 +33,4 @@ Problems completed till now are following.
 3. Find duplicates in a string
 4. Check if one string is a rotation of another one
 5. Is a strung is a valid shuffle of other two strings.
+6. Count and Say problem
