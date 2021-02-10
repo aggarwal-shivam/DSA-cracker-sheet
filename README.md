@@ -31,3 +31,4 @@ Problems completed till now are following.
 1. Reverse a string in constant space
 2. Palindrome String or not.
 3. Find duplicates in a string
+4. Check if one string is a rotation of another one
