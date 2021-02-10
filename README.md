@@ -34,3 +34,4 @@ Problems completed till now are following.
 4. Check if one string is a rotation of another one
 5. Is a strung is a valid shuffle of other two strings.
 6. Count and Say problem
+7. Longest palindrome substring
