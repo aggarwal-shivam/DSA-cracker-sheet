@@ -36,3 +36,4 @@ Problems completed till now are following.
 6. Count and Say problem
 7. Longest palindrome substring
 8. Longest Recurring Subsequence in a string
+9. Print all subsequences of a string.
