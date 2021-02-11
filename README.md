@@ -37,3 +37,4 @@ Problems completed till now are following.
 7. Longest palindrome substring
 8. Longest Recurring Subsequence in a string
 9. Print all subsequences of a string.
+10. Print all permutations of a given string.
