@@ -35,3 +35,4 @@ Problems completed till now are following.
 5. Is a strung is a valid shuffle of other two strings.
 6. Count and Say problem
 7. Longest palindrome substring
+8. Longest Recurring Subsequence in a string
