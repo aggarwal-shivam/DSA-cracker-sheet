@@ -38,3 +38,4 @@ Problems completed till now are following.
 8. Longest Recurring Subsequence in a string
 9. Print all subsequences of a string.
 10. Print all permutations of a given string.
+11. Split the binary substring into substrings containing equal 0's and 1's.
