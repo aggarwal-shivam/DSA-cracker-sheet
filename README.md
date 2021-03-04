@@ -42,3 +42,5 @@ Problems completed till now are following.
 
 ## Dynamic Programming
 1. Coin Change
+2. 0-1 Knapsack Problem
+3. Binomial coefficient problem
