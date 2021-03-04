@@ -46,3 +46,4 @@ Problems completed till now are following.
 3. Binomial coefficient problem
 4. Permutation Coefficient
 5. nth Catalan number
+6. Matrix Chain multiplication
