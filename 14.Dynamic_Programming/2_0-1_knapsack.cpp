@@ -22,44 +22,28 @@ mt19937                 rng(chrono::steady_clock::now().time_since_epoch().count
 
 typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> pbds;
 
-
-
-int coin_change_I(int S[], int m, int n){
-    //S is the array of denominations of coins
-    // m is the size of the array S
-    // n is the target sum that is required
-    int dp[1001][1001];
-    memset(dp,-1,sizeof(dp));
-    for(int i=0;i<=m;i++){
-        dp[i][0]=1;
-    }
-    for(int j=1;j<=n;j++){
-        dp[0][j]=0;
-    }
-    for(int i=1;i<=m;i++){
-        for(int j=1;j<=n;j++){
-            if(S[i-1]<=j){
-                dp[i][j]=dp[i][j-S[i-1]] + dp[i-1][j];
+int knapsack_0_1(int W, int wt[], int val[], int n){
+    int dp[n+1][W+1];
+    memset(dp,0,sizeof(dp));
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=W;j++){
+            if(wt[i-1]<=j){
+                dp[i][j]=max( val[i-1]+dp[i-1][j-wt[i-1]] , dp[i-1][j] );
             }
-            else{
+            else    
                 dp[i][j]=dp[i-1][j];
-            }
         }
     }
-    // for(int i=0;i<=m;i++){
-    //     for(int j=0;j<=n;j++){
-    //         cout<<dp[i][j]<<space;
-    //     }
-    //     cout<<endl;
-    // }
-    return dp[m][n];
+    return dp[n][W];
 }
 
 int32_t main(){
 	ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    int n=500;
-    int m=3;
-    int S[]={1,2,3};
-    cout<<coin_change_I(S,m,n)<<endl;
+    int n,W;
+    cin>>n>>W;
+    int wt[n], val[n];
+    fori(i,0,n) cin>>wt[i];
+    fori(i,0,n) cin>>val[i];
+    cout<<knapsack_0_1(W,wt,val,n)<<endl;
 	return 0;
 }
