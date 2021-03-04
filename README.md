@@ -39,3 +39,6 @@ Problems completed till now are following.
 9. Print all subsequences of a string.
 10. Print all permutations of a given string.
 11. Split the binary substring into substrings containing equal 0's and 1's.
+
+## Dynamic Programming
+1. Coin Change
