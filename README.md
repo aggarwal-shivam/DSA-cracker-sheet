@@ -47,3 +47,4 @@ Problems completed till now are following.
 4. Permutation Coefficient
 5. nth Catalan number
 6. Matrix Chain multiplication
+8. Equal Subset sum partition
