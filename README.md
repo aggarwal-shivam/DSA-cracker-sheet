@@ -48,3 +48,4 @@ Problems completed till now are following.
 5. nth Catalan number
 6. Matrix Chain multiplication
 8. Equal Subset sum partition
+9. Friends pairing problem
