@@ -47,5 +47,6 @@ Problems completed till now are following.
 4. Permutation Coefficient
 5. nth Catalan number
 6. Matrix Chain multiplication
+7. Min edit distance
 8. Equal Subset sum partition
 9. Friends pairing problem
