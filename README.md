@@ -51,3 +51,4 @@ Problems completed till now are following.
 8. Equal Subset sum partition
 9. Friends pairing problem
 10. Gold mining problem
+11. Assembly line scheduling problem
