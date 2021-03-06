@@ -52,4 +52,5 @@ Problems completed till now are following.
 9. Friends pairing problem
 10. Gold mining problem
 11. Assembly line scheduling problem
+12. Fence painting problem
 14. Longest Common subsequence
