@@ -53,4 +53,5 @@ Problems completed till now are following.
 10. Gold mining problem
 11. Assembly line scheduling problem
 12. Fence painting problem
+13. Maximize the cut segments
 14. Longest Common subsequence
