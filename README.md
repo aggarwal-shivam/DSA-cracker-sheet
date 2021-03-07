@@ -55,3 +55,4 @@ Problems completed till now are following.
 12. Fence painting problem
 13. Maximize the cut segments
 14. Longest Common subsequence
+15. Longets Repeated subsequence
