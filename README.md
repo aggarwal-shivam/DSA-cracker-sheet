@@ -56,3 +56,4 @@ Problems completed till now are following.
 13. Maximize the cut segments
 14. Longest Common subsequence
 15. Longets Repeated subsequence
+17. Space Optimized solution for LCS
