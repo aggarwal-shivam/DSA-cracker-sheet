@@ -55,5 +55,6 @@ Problems completed till now are following.
 12. Fence painting problem
 13. Maximize the cut segments
 14. Longest Common subsequence
-15. Longets Repeated subsequence
+15. Longest Repeated subsequence
+16. Longest Increasing subsequence
 17. Space Optimized solution for LCS
