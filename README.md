@@ -59,3 +59,4 @@ Problems completed till now are following.
 16. Longest Increasing subsequence
 17. Space Optimized solution for LCS
 18. LCS of three strings
+19. Maximum sum increasing subsequence
